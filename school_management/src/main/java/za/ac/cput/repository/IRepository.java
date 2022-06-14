@@ -8,4 +8,3 @@ public interface IRepository<T, ID> {
     Optional<T> read(ID id);
     void delete(T t);
 }
-

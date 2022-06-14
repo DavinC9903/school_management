@@ -11,3 +11,4 @@ public class School_Management_Main
         SpringApplication.run(School_Management_Main.class, args);
     }
 }
+
