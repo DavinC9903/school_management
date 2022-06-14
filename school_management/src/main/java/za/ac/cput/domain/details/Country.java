@@ -1,4 +1,5 @@
 package za.ac.cput.domain.details;
+
 /**
  * Name - Onele Tomson
  * Student number - 219483280
