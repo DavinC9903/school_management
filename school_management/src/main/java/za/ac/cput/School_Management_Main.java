@@ -1,4 +1,13 @@
 package za.ac.cput;
 
-public class School_Management_Main {
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class School_Management_Main
+{
+    public static void main(String[] args)
+    {
+        SpringApplication.run(School_Management_Main.class, args);
+    }
 }
