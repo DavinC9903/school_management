@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0ba4f85-915b-4618-8dc5-080c1fb03a0d" name="Changes" comment="Initial commit" />
+    <list default="true" id="c0ba4f85-915b-4618-8dc5-080c1fb03a0d" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_06_14_17_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_06_14_17_05__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_06_14_17_14__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_06_14_17_14__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_management/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/school_management/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_management/src/main/java/za/ac/cput/School_Management_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_management/src/main/java/za/ac/cput/School_Management_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_management/src/test/java/za/ac/cput/factory/CityFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_management/src/test/java/za/ac/cput/factory/details/Impl/CityFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_management/src/test/java/za/ac/cput/repository/demography/dummyClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_management/src/test/java/za/ac/cput/repository/details/dummyClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_management/src/test/java/za/ac/cput/repository/details/Impl/dummyClassTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,6 +174,17 @@
       <option name="MAIN_CLASS_NAME" value="za.ac.cput.repository.details.Impl.CityRepositoryImplTest" />
       <option name="METHOD_NAME" value="save" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
