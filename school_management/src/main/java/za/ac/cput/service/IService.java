@@ -6,5 +6,5 @@ public interface IService<T, ID> {
 
     T save(T t);
     Optional<T> read(ID id);
-    void delete(ID t);
+    void delete(T t);
 }
