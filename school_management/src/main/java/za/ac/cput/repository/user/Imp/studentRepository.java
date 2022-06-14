@@ -1,6 +1,6 @@
 package za.ac.cput.repository.user.Imp;
 
-import za.ac.cput.domain.user.Student;
+import za.ac.cput.domain.users.Student;
 import za.ac.cput.repository.user.Interfaces.studentIRepository;
 
 import java.util.ArrayList;

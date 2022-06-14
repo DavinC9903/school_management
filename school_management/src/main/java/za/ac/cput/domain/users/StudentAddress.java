@@ -1,4 +1,4 @@
-package za.ac.cput.domain.user;
+package za.ac.cput.domain.users;
 
 import za.ac.cput.domain.details.Address;
 

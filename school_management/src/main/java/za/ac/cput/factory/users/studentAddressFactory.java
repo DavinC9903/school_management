@@ -1,7 +1,7 @@
-package za.ac.cput.factory.user;
+package za.ac.cput.factory.users;
 
 import za.ac.cput.domain.details.Address;
-import za.ac.cput.domain.user.StudentAddress;
+import za.ac.cput.domain.users.StudentAddress;
 import za.ac.cput.util.StringHelper;
 
 public class studentAddressFactory
