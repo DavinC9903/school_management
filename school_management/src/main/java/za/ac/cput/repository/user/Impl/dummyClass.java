@@ -1,4 +1,4 @@
-package za.ac.cput.repository.user;
+package za.ac.cput.repository.user.Impl;
 //serves no purpose, can be deleted after cloning
 public class dummyClass {
 }
