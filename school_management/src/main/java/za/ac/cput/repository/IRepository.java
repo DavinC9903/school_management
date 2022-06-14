@@ -4,7 +4,7 @@ import java.util.Optional;
 
 public interface IRepository<T, ID> {
 
-    T create(T t);
+    T save(T t);
     Optional<T> read(ID id);
     T update(T t);
     void delete(ID id);

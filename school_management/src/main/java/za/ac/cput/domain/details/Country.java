@@ -1,4 +1,4 @@
-package za.ac.cput.domain;
+package za.ac.cput.domain.details;
 /**
  * Name - Onele Tomson
  * Student number - 219483280
@@ -13,7 +13,7 @@ public class Country {
     private final String id, name;
 
 
-    private Country(Builder builder) {
+    public Country(Builder builder) {
         this.id = builder.id;
         this.name = builder.name;
     }
@@ -26,8 +26,7 @@ public class Country {
         return name;
     }
 
-
-    private static class Builder {
+    public static class Builder {
         private String id, name;
 
         public Builder id(String id) {
