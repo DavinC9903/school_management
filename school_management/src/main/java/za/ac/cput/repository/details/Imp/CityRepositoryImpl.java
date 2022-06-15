@@ -1,7 +1,7 @@
-package za.ac.cput.repository.details.Impl;
+package za.ac.cput.repository.details.Imp;
 
 import za.ac.cput.domain.details.City;
-import za.ac.cput.repository.details.Iterfaces.CityRepository;
+import za.ac.cput.repository.details.Interfaces.CityRepository;
 
 import java.util.ArrayList;
 import java.util.List;

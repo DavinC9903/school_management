@@ -5,7 +5,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import za.ac.cput.domain.details.City;
 import za.ac.cput.factory.details.CityFactory;
-import za.ac.cput.repository.details.Iterfaces.CityRepository;
+import za.ac.cput.repository.details.Imp.CityRepositoryImpl;
+import za.ac.cput.repository.details.Interfaces.CityRepository;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,8 +1,8 @@
-package za.ac.cput.service.details.impl;
+package za.ac.cput.service.details.Imp;
 
 import za.ac.cput.domain.details.City;
-import za.ac.cput.repository.details.Iterfaces.CityRepository;
-import za.ac.cput.repository.details.Impl.CityRepositoryImpl;
+import za.ac.cput.repository.details.Interfaces.CityRepository;
+import za.ac.cput.repository.details.Imp.CityRepositoryImpl;
 import za.ac.cput.service.details.Interfaces.CityService;
 import java.util.Optional;
 

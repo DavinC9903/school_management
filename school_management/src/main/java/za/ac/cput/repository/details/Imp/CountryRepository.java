@@ -1,4 +1,4 @@
-package za.ac.cput.repository.details;
+package za.ac.cput.repository.details.Imp;
 /**
  * Name - Onele Tomson
  * Student number - 219483280

@@ -1,4 +1,4 @@
-package za.ac.cput.repository.details.Iterfaces;
+package za.ac.cput.repository.details.Interfaces;
 
 import za.ac.cput.domain.details.City;
 import za.ac.cput.repository.IRepository;
