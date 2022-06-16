@@ -1,4 +1,4 @@
-package za.ac.cput.factory;
+package za.ac.cput.factory.details;
 /**
  * Name - Onele Tomson
  * Student number - 219483280

@@ -7,17 +7,17 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-public class studentAddressRepository implements studentAddressIRepository
+public class StudentAddressRepository implements studentAddressIRepository
 {
     private final List<StudentAddress> studentAddressList;
-    public static studentAddressRepository studentAddressRepository;
+    public static StudentAddressRepository studentAddressRepository;
 
-    private studentAddressRepository(){this.studentAddressList = new ArrayList<>();}
+    private StudentAddressRepository(){this.studentAddressList = new ArrayList<>();}
 
-    public static studentAddressRepository getStudentAddressRepository()
+    public static StudentAddressRepository getStudentAddressRepository()
     {
         if(studentAddressRepository == null)
-            studentAddressRepository = new studentAddressRepository();
+            studentAddressRepository = new StudentAddressRepository();
         return studentAddressRepository;
     }
 

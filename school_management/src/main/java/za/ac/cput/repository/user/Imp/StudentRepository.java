@@ -8,17 +8,17 @@ import java.util.List;
 import java.util.Optional;
 
 
-public class studentRepository implements studentIRepository
+public class StudentRepository implements studentIRepository
 {
     private final List<Student> studentList;
-    public static studentRepository studentRepository;
+    public static StudentRepository studentRepository;
 
-    private studentRepository(){ this.studentList = new ArrayList<>();}
+    private StudentRepository(){ this.studentList = new ArrayList<>();}
 
-    public static studentRepository getStudentRepository()
+    public static StudentRepository getStudentRepository()
     {
         if(studentRepository == null)
-            studentRepository = new studentRepository();
+            studentRepository = new StudentRepository();
         return studentRepository;
     }
 
@@ -45,6 +45,9 @@ public class studentRepository implements studentIRepository
     {
         this.studentList.remove(student);
     }
+
+    @Override
+    public List<Student> findAll(){return this.studentList;}
 }
 
 

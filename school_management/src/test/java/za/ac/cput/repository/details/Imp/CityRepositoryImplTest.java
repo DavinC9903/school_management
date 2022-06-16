@@ -1,4 +1,4 @@
-package za.ac.cput.repository.details.Impl;
+package za.ac.cput.repository.details.Imp;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

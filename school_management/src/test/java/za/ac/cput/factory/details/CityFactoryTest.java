@@ -1,4 +1,4 @@
-package za.ac.cput.factory.details.Impl;
+package za.ac.cput.factory.details;
 
 import org.junit.jupiter.api.Test;
 import za.ac.cput.domain.details.City;
